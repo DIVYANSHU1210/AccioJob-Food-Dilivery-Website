@@ -1,0 +1,8 @@
+.buttonformat{
+    background-color: rgb(248,75,61) !important;
+    color: white !important;
+    border-radius: 10px !important;
+    border: none;
+    /* width: 75; */
+    font-family: Arial, Helvetica, sans-serif;
+}
